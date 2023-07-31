@@ -47,7 +47,7 @@
 </div>
 <br/>
 <div align="center">
- <a href="https://velog.io/@leeks9653" target="_blank"> 
+ <a href="https://judith-hopps.tistory.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/>
  </a>
 </div>
