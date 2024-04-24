@@ -28,6 +28,7 @@
 </div>
 <br/>
 <div align="center">
+  <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
 </div>
@@ -43,12 +44,14 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=FFFFFF"/>
+ 
 </div>
 <br/>
 <div align="center">
+   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
  <a href="https://judith-hopps.tistory.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white"/>
  </a>
 </div>
 <br/>
